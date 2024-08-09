@@ -1,0 +1,12 @@
+.small-calendar-card {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+mat-calendar {
+  width: 100%;
+}
